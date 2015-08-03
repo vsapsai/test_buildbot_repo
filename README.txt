@@ -6,3 +6,5 @@ for the same builder.
 Test latent build slave.  And test stopping the instance immediately after build.
 
 Test GitHub notifications.
+
+Make some change to be able to create a pull request.
